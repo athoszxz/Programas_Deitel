@@ -1,0 +1,34 @@
+0- Topo
+ 
+Determinar o pagamento bruto de cada um dos funcinários.
+
+
+1- Primeiro Refinamento
+
+Declare as variáveis
+Insira, calcule, conte as horas trabalhas e o valor por hora trabalhada
+Imprima o salário
+
+
+2- Segundo Refinamento
+
+Declare as variáveis
+
+Solicita que o usuário insira as horas trabalhadas (ou sentinela)
+Insira as horas trabalhadas
+
+Se horas trabalhadas for diferente de sentinela
+	Solicita que o usuário insira o valor por hora trabalhada
+	Insira o valor por hora trabalhada
+	Calcule o salário
+	Imprima o salário
+
+Enquanto horas trabalhadas for diferente de sentinela
+	Insira as horas trabalhadas
+	Solicita que o usuário insira o valor por hora trabalhada
+	Insira o valor por hora trabalhada
+	Calcule o salário
+	Imprima o salário
+
+
+

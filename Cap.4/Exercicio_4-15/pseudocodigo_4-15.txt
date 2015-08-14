@@ -1,0 +1,36 @@
+0- Topo
+Determinar o consumo em quilômetros/litro de gasolina de um tanque cheio.
+
+
+1- Primeiro Refinamento
+Inicializa as variáveis
+Insira, some, conte e exiba as quilometragens e litros consumidos
+Calcule e imprima o total de todas as quilometragens e litros consumidos
+
+
+2- Segundo Refinamento
+Inicialize totalkm como zero
+inicialize totallitro como zero
+Inicialize contador como zero
+
+Solicita que o usuário insira a primeira quilometragem dirigida
+Insira a primeira quilometragem dirigida (ou sentinela)
+Solicita que o usuário insira os primeiros litros consumidos 
+Insira os primeiros litros consumidos (ou sentinela)
+Imprime quilometragem e litro
+Contador recebe +1
+Enquanto o usuário não inserir a sentinela
+	Adicione quilometragem dirigida à soma totalkm
+	Adicione litros consumidos à soma totallitro
+	Solicite que o usuário insira a próxima quilometragem dirigida (ou sentinela)
+	Solicite que o usuário insira os próximos litros consumidos (ou sentinela)
+	Imprime quilometragem e litro
+	Contador recebe +1
+
+Se o contador não for igual a zero
+	Imprima soma totalkm
+	Imprima soma totallitro
+
+Caso contrário
+	Imprima "Programa terminado sem dados"
+	

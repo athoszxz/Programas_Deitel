@@ -1,0 +1,25 @@
+0- Topo
+ 
+Determinar e imprimir o maior número dentre 10 números inseridos pelo usuário.
+
+
+1- Primeiro Refinamento
+
+Declare e inicialize as variáveis
+Insira, conte e calcule 10 números inseridos pelo usuário
+Imprima o maior número
+
+
+2- Segundo Refinamento
+
+Inicialize counter como 0 e maior como 0
+
+Enquanto counter for menor ou = que 10
+	Solicita o usuário que insira a quantidade de unidades vendidas
+	Insira as unidades vendidas
+	
+		Se unidades vendidas for maior que maior
+		Maior recebe unidades vendidas
+	Contador recebe mais 1
+
+Imprima maior número de unidades vendidas 
